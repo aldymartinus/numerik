@@ -1,0 +1,2 @@
+# numerik
+Tugas Metode Numerik
