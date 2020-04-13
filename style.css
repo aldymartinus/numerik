@@ -1,0 +1,38 @@
+body{
+    margin: 50px 0px 0px 300px;
+    font-size: 20px;
+    font-family: 'Fira Code', monospace;
+}
+#question{
+    font-size: 18px;
+    font-family: 'Fira Code', monospace;
+    box-shadow: 1px 1px 8px darkgrey;
+    border: none;
+    border-radius: 6px;
+    padding: 10px 0px 10px 8px;
+}
+#result{
+    font-size: 20px;
+    font-family: 'Fira Code', monospace;
+    box-shadow: 1px 1px 8px darkgrey;
+    border: none;
+    border-radius: 15px;
+    padding: 15px 0px 0px 15px;
+}
+#calc{
+    font-family: 'Fira Code', monospace;
+    padding: 6px 5px 3px 5px;
+    margin: 0px 0px 0px 10px;
+    border-radius: 3px;
+    border: 1px solid slategrey;
+    background-color: whitesmoke;
+}
+
+#calc:hover{
+    box-shadow: 2px 2px 5px darkgrey;
+}
+
+#calc:active{
+    box-shadow: 0 3px 0 steelblue;
+    top: 3px;
+}
